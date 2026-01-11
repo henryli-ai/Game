@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PokéMath Adventure",
+  "description": "A Pokémon-themed Math/English learning game for kids with AR rewards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
